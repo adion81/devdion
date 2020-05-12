@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+.profile-img{
+  width: 55%;
+  top: 22%;
+  left:50%;
+  margin-left: -27.5%;
+}
+.stack{
+  width: 320px;
+}
+.stack-img{
+  width: 200px;
+  margin-top: -32%;
+}
+
+@media(min-width: 480px){
+  .profile-img{
+    width: 35%;
+    top: 30%;
+    margin-left: -17.5%;
+  }
+}
+@media(min-width: 768px){
+  .profile-img{
+    width: 25%;
+    top: 20%;
+    margin-left: -12.5%;
+  }
+}
+@media(min-width: 1024px){
+  .profile-img{
+    width: 18%;
+    top: 15%;
+    margin-left: -9%;
+  }
+}
+
+.hidden{
+  display: hidden;
+}
