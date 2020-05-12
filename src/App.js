@@ -17,7 +17,7 @@ function App() {
         <p className="text-lg text-bluey-100 ">drien Dion</p>
       </h1>
       <Router>
-        <Main path="/" />
+        <Main path="/devdion" />
       </Router> 
       
     </div>
