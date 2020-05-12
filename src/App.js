@@ -16,8 +16,9 @@ function App() {
         <Hamburger />
         <p className="text-lg text-bluey-100 ">drien Dion</p>
       </h1>
-      <Main  />
-   
+      <Router>
+        <Main path="devdion" />
+      </Router> 
       
     </div>
   );
