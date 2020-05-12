@@ -18,15 +18,24 @@ const FriendTicker = (props) => {
     const [input,setInput] = useState("");
     const [move] = useState(true);
 
+    const reset = () => {
+        setHeadlines([
+            "Adrien is the coolest.",
+            "I heard Benny Bob was gonna get him.",
+            "KHAMPB!!!"
+        ])
+    }
+
     const handleSubmit = (e) => {
         e.preventDefault();
         setHeadlines(oldHeadlines => [...oldHeadlines,input]);
         setInput("");
     }
     return (
-        <div className="flex-row bg-bluey-900 text-greeny-500 p-5">
+        <div className="flex-row bg-hex text-greeny-500 p-5">
             <h2 className=" text-2xl text-center text-white">Add to the ticker headlines . . . </h2>
             <Ticker
+                
                 direction="toLeft"
                 offset="100%"
                 speed={10}
@@ -51,7 +60,7 @@ const FriendTicker = (props) => {
                 />
                 <button 
                     className="bg-bluey-500 hover:bg-orangey-500 text-white font-bold py-2 px-4 rounded" 
-                    onClick={() => setHeadlines([])}
+                    onClick={reset}
                 >RESET</button>
             </form>
             

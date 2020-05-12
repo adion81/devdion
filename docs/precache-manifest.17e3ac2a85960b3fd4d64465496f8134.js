@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa83db5b0a44dbe6ffc1c868e450c0ab",
+    "revision": "c15a1c2df09af5886b72f723c34d64f6",
     "url": "/devdion/index.html"
   },
   {
-    "revision": "15ba5565ca1cb56cbeb8",
-    "url": "/devdion/static/css/main.36d19a62.chunk.css"
+    "revision": "8efc40ffa66bbe670a18",
+    "url": "/devdion/static/css/main.ebefbc19.chunk.css"
   },
   {
-    "revision": "bd1551f6aa888c16f2ef",
-    "url": "/devdion/static/js/2.b2c98eb7.chunk.js"
+    "revision": "e4e3fadb0528ddbfd65d",
+    "url": "/devdion/static/js/2.ab03a03a.chunk.js"
   },
   {
     "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
-    "url": "/devdion/static/js/2.b2c98eb7.chunk.js.LICENSE.txt"
+    "url": "/devdion/static/js/2.ab03a03a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15ba5565ca1cb56cbeb8",
-    "url": "/devdion/static/js/main.33f1567f.chunk.js"
+    "revision": "8efc40ffa66bbe670a18",
+    "url": "/devdion/static/js/main.0eb86054.chunk.js"
   },
   {
     "revision": "0a09e0efecff0cd06427",

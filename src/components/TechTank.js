@@ -1,4 +1,4 @@
-import React,{useState,useRef,useEffect} from 'react';
+import React,{useState,useRef} from 'react';
 
 import cSharp from '../assets/img/csharp.png';
 
@@ -26,9 +26,9 @@ const TechTank = (props) => {
     // }
 
     // );
-    const handleMovement = () => {
+    // const handleMovement = () => {
 
-    }
+    // }
     
     if(size)
     {

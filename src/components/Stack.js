@@ -14,7 +14,7 @@ import csharp from '../assets/img/csharp.png';
 
 const Stack = ({stack,handleReact}) => {
     return (
-        <fieldset className=" py-5 flex-1 rounded-lg m-5 text-white text-center bg-bluey-900">
+        <fieldset className=" py-5 flex-1 rounded-lg m-5 text-white text-center bg-hex">
             <legend>
                 <img 
                     src={stack.stack === 'C#/ASP.Net Core' ? 
