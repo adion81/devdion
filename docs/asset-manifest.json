@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/devdion/static/css/main.c5f09925.chunk.css",
-    "main.js": "/devdion/static/js/main.3d4b57a7.chunk.js",
-    "main.js.map": "/devdion/static/js/main.3d4b57a7.chunk.js.map",
+    "main.js": "/devdion/static/js/main.02947a83.chunk.js",
+    "main.js.map": "/devdion/static/js/main.02947a83.chunk.js.map",
     "runtime-main.js": "/devdion/static/js/runtime-main.c0996f68.js",
     "runtime-main.js.map": "/devdion/static/js/runtime-main.c0996f68.js.map",
     "static/js/2.ab03a03a.chunk.js": "/devdion/static/js/2.ab03a03a.chunk.js",
     "static/js/2.ab03a03a.chunk.js.map": "/devdion/static/js/2.ab03a03a.chunk.js.map",
     "index.html": "/devdion/index.html",
-    "precache-manifest.7f902f00a22424e7e7ee1a2bdd0d1b0b.js": "/devdion/precache-manifest.7f902f00a22424e7e7ee1a2bdd0d1b0b.js",
+    "precache-manifest.0d70e0c04f94c59d1a83cf46d1a81bc6.js": "/devdion/precache-manifest.0d70e0c04f94c59d1a83cf46d1a81bc6.js",
     "service-worker.js": "/devdion/service-worker.js",
     "static/css/main.c5f09925.chunk.css.map": "/devdion/static/css/main.c5f09925.chunk.css.map",
     "static/js/2.ab03a03a.chunk.js.LICENSE.txt": "/devdion/static/js/2.ab03a03a.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.c0996f68.js",
     "static/js/2.ab03a03a.chunk.js",
     "static/css/main.c5f09925.chunk.css",
-    "static/js/main.3d4b57a7.chunk.js"
+    "static/js/main.02947a83.chunk.js"
   ]
 }

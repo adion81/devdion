@@ -53,7 +53,7 @@ const stacks = [
         },
         frontEnd:{
             name:'Angular',
-            assocTech:['JavaScript']
+            assocTech:['TypeScript','JavaScript']
         }
     },
     {

@@ -17,6 +17,7 @@ const Stack = ({stack,handleReact}) => {
         <fieldset className=" py-5 flex-1 rounded-lg m-5 text-white text-center bg-hex">
             <legend>
                 <img 
+                    style={stack.stack === "M.E.R.N." || stack.stack === "M.E.A.N." ? {cursor: "pointer"}: null}
                     src={stack.stack === 'C#/ASP.Net Core' ? 
                         csharp : stack.stack === 'M.E.R.N.' ?
                         mern : stack.stack === "M.E.A.N." ?
