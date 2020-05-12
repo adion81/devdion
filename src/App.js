@@ -13,7 +13,7 @@ function App() {
   
   return (
     <div className="mx-auto font-mono bg-white ">
-      <h1 className="border-b p-1 border-bluey-100 bg-bluey-900 text-white flex items-center justify-between">
+      <h1 className="border-b p-1 border-bluey-100 bg-hex text-white flex items-center justify-between">
         <div className="flex items-center">
           <Hamburger />
           <p className="text-lg text-bluey-100 ">drien Dion</p>

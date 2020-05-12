@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/devdion/static/css/main.ebefbc19.chunk.css",
-    "main.js": "/devdion/static/js/main.0eb86054.chunk.js",
-    "main.js.map": "/devdion/static/js/main.0eb86054.chunk.js.map",
+    "main.js": "/devdion/static/js/main.b0b46f62.chunk.js",
+    "main.js.map": "/devdion/static/js/main.b0b46f62.chunk.js.map",
     "runtime-main.js": "/devdion/static/js/runtime-main.c0996f68.js",
     "runtime-main.js.map": "/devdion/static/js/runtime-main.c0996f68.js.map",
     "static/js/2.ab03a03a.chunk.js": "/devdion/static/js/2.ab03a03a.chunk.js",
     "static/js/2.ab03a03a.chunk.js.map": "/devdion/static/js/2.ab03a03a.chunk.js.map",
     "index.html": "/devdion/index.html",
-    "precache-manifest.17e3ac2a85960b3fd4d64465496f8134.js": "/devdion/precache-manifest.17e3ac2a85960b3fd4d64465496f8134.js",
+    "precache-manifest.3a12effca033e261108ccf9126734dee.js": "/devdion/precache-manifest.3a12effca033e261108ccf9126734dee.js",
     "service-worker.js": "/devdion/service-worker.js",
     "static/css/main.ebefbc19.chunk.css.map": "/devdion/static/css/main.ebefbc19.chunk.css.map",
     "static/js/2.ab03a03a.chunk.js.LICENSE.txt": "/devdion/static/js/2.ab03a03a.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.c0996f68.js",
     "static/js/2.ab03a03a.chunk.js",
     "static/css/main.ebefbc19.chunk.css",
-    "static/js/main.0eb86054.chunk.js"
+    "static/js/main.b0b46f62.chunk.js"
   ]
 }
