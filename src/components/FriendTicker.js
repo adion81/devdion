@@ -32,7 +32,7 @@ const FriendTicker = (props) => {
         setInput("");
     }
     return (
-        <div className="flex-row bg-hex text-greeny-500 p-5">
+        <div className="flex-row bg-bluey-900 text-greeny-500 p-5">
             <h2 className=" text-2xl text-center text-white">Add to the ticker headlines . . . </h2>
             <Ticker
                 

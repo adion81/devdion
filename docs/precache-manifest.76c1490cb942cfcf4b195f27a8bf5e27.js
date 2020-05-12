@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "090a23742f5b7d2aba2d21cc00d6107d",
+    "revision": "3bc57a680bde4375f1400c6af355a226",
     "url": "/devdion/index.html"
   },
   {
-    "revision": "4bb32543078be24076d2",
+    "revision": "8bb96289278decdb3fce",
     "url": "/devdion/static/css/main.ebefbc19.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/devdion/static/js/2.ab03a03a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4bb32543078be24076d2",
-    "url": "/devdion/static/js/main.b0b46f62.chunk.js"
+    "revision": "8bb96289278decdb3fce",
+    "url": "/devdion/static/js/main.09ee2b99.chunk.js"
   },
   {
     "revision": "0a09e0efecff0cd06427",
