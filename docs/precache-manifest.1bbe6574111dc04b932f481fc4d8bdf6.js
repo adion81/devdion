@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66d4f758d24ea553c871028905c6cd5e",
+    "revision": "f63992334aad5f48e5cd66d07d6299ac",
     "url": "/devdion/index.html"
   },
   {
-    "revision": "9288a926f924aaaddc74",
-    "url": "/devdion/static/css/main.c5f09925.chunk.css"
+    "revision": "c3f01bdf729c23c9eb15",
+    "url": "/devdion/static/css/main.3a38f7a2.chunk.css"
   },
   {
-    "revision": "e4e3fadb0528ddbfd65d",
-    "url": "/devdion/static/js/2.ab03a03a.chunk.js"
+    "revision": "320a4c75b3f2e44db44f",
+    "url": "/devdion/static/js/2.e62e48ed.chunk.js"
   },
   {
     "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
-    "url": "/devdion/static/js/2.ab03a03a.chunk.js.LICENSE.txt"
+    "url": "/devdion/static/js/2.e62e48ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9288a926f924aaaddc74",
-    "url": "/devdion/static/js/main.02947a83.chunk.js"
+    "revision": "c3f01bdf729c23c9eb15",
+    "url": "/devdion/static/js/main.1bc811b3.chunk.js"
   },
   {
     "revision": "0a09e0efecff0cd06427",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "687eb5720968f9d502210b8a28797346",
     "url": "/devdion/static/media/adrienProfile.687eb572.png"
+  },
+  {
+    "revision": "eeafa106286bed4cfdfb1001dc01a271",
+    "url": "/devdion/static/media/black-numbers-background_b4eu7wk3_thumbnail-full01.eeafa106.png"
   },
   {
     "revision": "7f30204cf3119b544a414d0644f53216",

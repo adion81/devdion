@@ -33,7 +33,7 @@ function App() {
         <Projects path="devdion/projects" />
       </Router> 
 
-      <footer className="border-b mt-10 p-5 border-bluey-100 bg-hex text-white flex items-center justify-around">
+      <footer className="border-b p-5 border-bluey-100 bg-hex text-white flex items-center justify-around">
         <div className="bg-rounded text-center">
           <h3 className="text-lg">Contact</h3>
           <p>adion81@gmail.com</p>

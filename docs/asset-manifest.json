@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/devdion/static/css/main.c5f09925.chunk.css",
-    "main.js": "/devdion/static/js/main.02947a83.chunk.js",
-    "main.js.map": "/devdion/static/js/main.02947a83.chunk.js.map",
+    "main.css": "/devdion/static/css/main.3a38f7a2.chunk.css",
+    "main.js": "/devdion/static/js/main.1bc811b3.chunk.js",
+    "main.js.map": "/devdion/static/js/main.1bc811b3.chunk.js.map",
     "runtime-main.js": "/devdion/static/js/runtime-main.c0996f68.js",
     "runtime-main.js.map": "/devdion/static/js/runtime-main.c0996f68.js.map",
-    "static/js/2.ab03a03a.chunk.js": "/devdion/static/js/2.ab03a03a.chunk.js",
-    "static/js/2.ab03a03a.chunk.js.map": "/devdion/static/js/2.ab03a03a.chunk.js.map",
+    "static/js/2.e62e48ed.chunk.js": "/devdion/static/js/2.e62e48ed.chunk.js",
+    "static/js/2.e62e48ed.chunk.js.map": "/devdion/static/js/2.e62e48ed.chunk.js.map",
     "index.html": "/devdion/index.html",
-    "precache-manifest.0d70e0c04f94c59d1a83cf46d1a81bc6.js": "/devdion/precache-manifest.0d70e0c04f94c59d1a83cf46d1a81bc6.js",
+    "precache-manifest.1bbe6574111dc04b932f481fc4d8bdf6.js": "/devdion/precache-manifest.1bbe6574111dc04b932f481fc4d8bdf6.js",
     "service-worker.js": "/devdion/service-worker.js",
-    "static/css/main.c5f09925.chunk.css.map": "/devdion/static/css/main.c5f09925.chunk.css.map",
-    "static/js/2.ab03a03a.chunk.js.LICENSE.txt": "/devdion/static/js/2.ab03a03a.chunk.js.LICENSE.txt",
+    "static/css/main.3a38f7a2.chunk.css.map": "/devdion/static/css/main.3a38f7a2.chunk.css.map",
+    "static/js/2.e62e48ed.chunk.js.LICENSE.txt": "/devdion/static/js/2.e62e48ed.chunk.js.LICENSE.txt",
     "static/media/adrienProfile.png": "/devdion/static/media/adrienProfile.687eb572.png",
+    "static/media/Sudoku.css": "/devdion/static/media/black-numbers-background_b4eu7wk3_thumbnail-full01.eeafa106.png",
     "static/media/csharp.png": "/devdion/static/media/csharp.7f30204c.png",
     "static/media/frontEnd.png": "/devdion/static/media/frontEnd.1d445826.png",
     "static/media/mean.png": "/devdion/static/media/mean.18f18ebc.png",
@@ -22,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c0996f68.js",
-    "static/js/2.ab03a03a.chunk.js",
-    "static/css/main.c5f09925.chunk.css",
-    "static/js/main.02947a83.chunk.js"
+    "static/js/2.e62e48ed.chunk.js",
+    "static/css/main.3a38f7a2.chunk.css",
+    "static/js/main.1bc811b3.chunk.js"
   ]
 }
