@@ -237,18 +237,21 @@ export default class Sudoku extends Component {
                         />
 
                     </div>
-                        <Game
-                            grid={this.state.grid}
-                            compareNumber={this.compareNumber}
-                            highlightSelect={this.highlightSelect}
-                            selected={this.state.selected}
-                        />
+                    {
+                        this.state.message.length > 0 ? 
+                            <Modal 
+                                unSolvedSquares={this.state.unSolvedSquares}
+                                message={this.state.message}
+                                resetGame={this.resetGame}
+                            /> :
+                            <Game
+                                grid={this.state.grid}
+                                compareNumber={this.compareNumber}
+                                highlightSelect={this.highlightSelect}
+                                selected={this.state.selected}
+                            />
+                    }
                     
-                    <Modal 
-                        unSolvedSquares={this.state.unSolvedSquares}
-                        message={this.state.message}
-                        resetGame={this.resetGame}
-                    />
 
 
                 </main>

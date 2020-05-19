@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/devdion/static/css/main.3a38f7a2.chunk.css",
-    "main.js": "/devdion/static/js/main.1bc811b3.chunk.js",
-    "main.js.map": "/devdion/static/js/main.1bc811b3.chunk.js.map",
+    "main.css": "/devdion/static/css/main.dffb4d91.chunk.css",
+    "main.js": "/devdion/static/js/main.c9d85a25.chunk.js",
+    "main.js.map": "/devdion/static/js/main.c9d85a25.chunk.js.map",
     "runtime-main.js": "/devdion/static/js/runtime-main.c0996f68.js",
     "runtime-main.js.map": "/devdion/static/js/runtime-main.c0996f68.js.map",
     "static/js/2.e62e48ed.chunk.js": "/devdion/static/js/2.e62e48ed.chunk.js",
     "static/js/2.e62e48ed.chunk.js.map": "/devdion/static/js/2.e62e48ed.chunk.js.map",
     "index.html": "/devdion/index.html",
-    "precache-manifest.1bbe6574111dc04b932f481fc4d8bdf6.js": "/devdion/precache-manifest.1bbe6574111dc04b932f481fc4d8bdf6.js",
+    "precache-manifest.148a2eff0e356b18cc8a54a3b169f158.js": "/devdion/precache-manifest.148a2eff0e356b18cc8a54a3b169f158.js",
     "service-worker.js": "/devdion/service-worker.js",
-    "static/css/main.3a38f7a2.chunk.css.map": "/devdion/static/css/main.3a38f7a2.chunk.css.map",
+    "static/css/main.dffb4d91.chunk.css.map": "/devdion/static/css/main.dffb4d91.chunk.css.map",
     "static/js/2.e62e48ed.chunk.js.LICENSE.txt": "/devdion/static/js/2.e62e48ed.chunk.js.LICENSE.txt",
     "static/media/adrienProfile.png": "/devdion/static/media/adrienProfile.687eb572.png",
     "static/media/Sudoku.css": "/devdion/static/media/black-numbers-background_b4eu7wk3_thumbnail-full01.eeafa106.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.c0996f68.js",
     "static/js/2.e62e48ed.chunk.js",
-    "static/css/main.3a38f7a2.chunk.css",
-    "static/js/main.1bc811b3.chunk.js"
+    "static/css/main.dffb4d91.chunk.css",
+    "static/js/main.c9d85a25.chunk.js"
   ]
 }

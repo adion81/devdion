@@ -23,7 +23,7 @@ export default class Game extends Component {
     }
     render() {
         return (
-            <table className="board xsm:w-4/4 xsm:mx-auto md:w-2/4">
+            <table className="board xsm:w-4/4 xsm:mx-auto md:w-3/6">
                 <tbody>
                     {this.createSudoku()}
                 </tbody>
