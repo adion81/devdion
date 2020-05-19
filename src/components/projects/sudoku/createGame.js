@@ -15,7 +15,7 @@ class Cell{
 }
 var ip = "18.216.108.30";
 const output = new Promise ((resolve,reject) => {
-    axios.get(`http://${ip}/api/sudoku/new`)
+    axios.get(`https://${ip}/api/sudoku/new`)
         .then(res => {
 
             let solved = res.data.solution;
