@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/devdion/static/css/main.dffb4d91.chunk.css",
+    "main.js": "/devdion/static/js/main.02fbf765.chunk.js",
+    "main.js.map": "/devdion/static/js/main.02fbf765.chunk.js.map",
+    "runtime-main.js": "/devdion/static/js/runtime-main.c0996f68.js",
+    "runtime-main.js.map": "/devdion/static/js/runtime-main.c0996f68.js.map",
+    "static/js/2.e62e48ed.chunk.js": "/devdion/static/js/2.e62e48ed.chunk.js",
+    "static/js/2.e62e48ed.chunk.js.map": "/devdion/static/js/2.e62e48ed.chunk.js.map",
+    "index.html": "/devdion/index.html",
+    "precache-manifest.fdcf9ac5fc318f038a27802f76c2a8f7.js": "/devdion/precache-manifest.fdcf9ac5fc318f038a27802f76c2a8f7.js",
+    "service-worker.js": "/devdion/service-worker.js",
+    "static/css/main.dffb4d91.chunk.css.map": "/devdion/static/css/main.dffb4d91.chunk.css.map",
+    "static/js/2.e62e48ed.chunk.js.LICENSE.txt": "/devdion/static/js/2.e62e48ed.chunk.js.LICENSE.txt",
+    "static/media/adrienProfile.png": "/devdion/static/media/adrienProfile.687eb572.png",
+    "static/media/Sudoku.css": "/devdion/static/media/black-numbers-background_b4eu7wk3_thumbnail-full01.eeafa106.png",
+    "static/media/csharp.png": "/devdion/static/media/csharp.7f30204c.png",
+    "static/media/frontEnd.png": "/devdion/static/media/frontEnd.1d445826.png",
+    "static/media/mean.png": "/devdion/static/media/mean.18f18ebc.png",
+    "static/media/menu-hex.svg": "/devdion/static/media/menu-hex.0527e51c.svg",
+    "static/media/mern.png": "/devdion/static/media/mern.8e4c4b00.png",
+    "static/media/python.png": "/devdion/static/media/python.135a21b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0996f68.js",
+    "static/js/2.e62e48ed.chunk.js",
+    "static/css/main.dffb4d91.chunk.css",
+    "static/js/main.02fbf765.chunk.js"
+  ]
+}
