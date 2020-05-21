@@ -120,14 +120,11 @@ export default class Sudoku extends Component {
         window.location.reload();
     }
     componentDidMount(){
-        board
-            .then(res => {
+      
                 this.setState(prevState => ({
-                    grid: res
+                    grid: board()
                 }))
-            })
-            .catch(err => console.log(err))
-            
+    
     }
     getStrikeId = () => {
         this.setState( prevState =>({
