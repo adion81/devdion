@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/devdion/static/css/main.dffb4d91.chunk.css",
-    "main.js": "/devdion/static/js/main.b96f8ca9.chunk.js",
-    "main.js.map": "/devdion/static/js/main.b96f8ca9.chunk.js.map",
+    "main.js": "/devdion/static/js/main.4ddf5a98.chunk.js",
+    "main.js.map": "/devdion/static/js/main.4ddf5a98.chunk.js.map",
     "runtime-main.js": "/devdion/static/js/runtime-main.c0996f68.js",
     "runtime-main.js.map": "/devdion/static/js/runtime-main.c0996f68.js.map",
-    "static/js/2.49a320bb.chunk.js": "/devdion/static/js/2.49a320bb.chunk.js",
-    "static/js/2.49a320bb.chunk.js.map": "/devdion/static/js/2.49a320bb.chunk.js.map",
+    "static/js/2.11af4dd0.chunk.js": "/devdion/static/js/2.11af4dd0.chunk.js",
+    "static/js/2.11af4dd0.chunk.js.map": "/devdion/static/js/2.11af4dd0.chunk.js.map",
     "index.html": "/devdion/index.html",
-    "precache-manifest.d6c1c870fb434296f67b23e165ebaae7.js": "/devdion/precache-manifest.d6c1c870fb434296f67b23e165ebaae7.js",
+    "precache-manifest.c7f2528f22f000d800278c3b23388bb7.js": "/devdion/precache-manifest.c7f2528f22f000d800278c3b23388bb7.js",
     "service-worker.js": "/devdion/service-worker.js",
     "static/css/main.dffb4d91.chunk.css.map": "/devdion/static/css/main.dffb4d91.chunk.css.map",
-    "static/js/2.49a320bb.chunk.js.LICENSE.txt": "/devdion/static/js/2.49a320bb.chunk.js.LICENSE.txt",
+    "static/js/2.11af4dd0.chunk.js.LICENSE.txt": "/devdion/static/js/2.11af4dd0.chunk.js.LICENSE.txt",
     "static/media/adrienProfile.png": "/devdion/static/media/adrienProfile.687eb572.png",
     "static/media/Sudoku.css": "/devdion/static/media/black-numbers-background_b4eu7wk3_thumbnail-full01.eeafa106.png",
     "static/media/csharp.png": "/devdion/static/media/csharp.7f30204c.png",
@@ -19,12 +19,13 @@
     "static/media/mean.png": "/devdion/static/media/mean.18f18ebc.png",
     "static/media/menu-hex.svg": "/devdion/static/media/menu-hex.0527e51c.svg",
     "static/media/mern.png": "/devdion/static/media/mern.8e4c4b00.png",
-    "static/media/python.png": "/devdion/static/media/python.135a21b0.png"
+    "static/media/python.png": "/devdion/static/media/python.135a21b0.png",
+    "static/media/underConstruction.jpg": "/devdion/static/media/underConstruction.f6dfd6b4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c0996f68.js",
-    "static/js/2.49a320bb.chunk.js",
+    "static/js/2.11af4dd0.chunk.js",
     "static/css/main.dffb4d91.chunk.css",
-    "static/js/main.b96f8ca9.chunk.js"
+    "static/js/main.4ddf5a98.chunk.js"
   ]
 }
