@@ -6,6 +6,7 @@ import Modal from './Modal';
 import Strike from './Strike';
 import board from './createGame';
 
+
 import './Sudoku.css';
 
 export default class Sudoku extends Component {
@@ -14,6 +15,7 @@ export default class Sudoku extends Component {
         super(props)
 
         this.state = {
+            reset: true,
             numOfStrikes: 0,
             strikes: [
                 [
@@ -115,12 +117,16 @@ export default class Sudoku extends Component {
         this.baseState = this.state;
 
     }
+    componentWillUnmount(){
+        this.setState({});
+    }
 
     resetGame = () => {
-        window.location.reload();
+        window.location.reload(false);
+       
     }
+    
     componentDidMount(){
-      
                 this.setState(prevState => ({
                     grid: board()
                 }))

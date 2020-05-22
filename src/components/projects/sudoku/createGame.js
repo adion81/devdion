@@ -135,7 +135,6 @@ const output = () => {
         solved = hard.solution;
         puzzle = hard.puzzle;
     }
-    console.log(puzzle);
     let board = [];
     let count = 0;
     for(let i =0; i < puzzle.length; i++){
@@ -148,13 +147,11 @@ const output = () => {
                 isSolved = false;
             }
             let box = (Math.floor(i/3)*3)+(j/3)+1;
-            console.log(box);
             row.push(new Cell(solved[i][j],isSolved,count,i+1,j+1,Math.floor(box)))
         }
 
         board.push(row);
     }
-    console.log(board)
     return board;
 }
 

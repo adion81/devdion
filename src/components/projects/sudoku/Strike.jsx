@@ -2,8 +2,8 @@ import React, {Component} from 'react';
 
 export default class Strike extends Component {
     createStrikes() {
-        return this.props.strikes.map(function (row){
-            return <tr>{row.map(function (cell,idx){
+        return this.props.strikes.map(function (row,i){
+            return <tr key={i}>{row.map(function (cell,idx){
                 return<td key={idx} >{cell.made === true ? 'X': ''}</td>
             }, this)}</tr>
         }, this)

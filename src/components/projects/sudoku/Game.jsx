@@ -4,10 +4,11 @@ import Square from './Square';
 export default class Game extends Component {
 
     createSudoku() {
-        return this.props.grid.map(function (row) {
+        return this.props.grid.map(function (row,i) {
 
-            return <tr>{row.map(function (cell) {
+            return <tr key={i}>{row.map(function (cell) {
                 return <Square
+                    key={cell.id}
                     id={cell.id}
                     isSolved={cell.isSolved}
                     value={cell.value}
