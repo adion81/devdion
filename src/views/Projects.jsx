@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 
 import HorizontalMenu from '../components/HorizontalMenu';
-import Sudoku from '../components/projects/sudoku/Sudoku';
+import Sudoku from '../components/projects/sudoku/newSudoku';
 import Datchi from '../components/projects/datchi/Datchi';
 import TaskMaster from '../components/projects/taskMaster/TaskMaster';
 import Library from '../components/projects/library/Library';

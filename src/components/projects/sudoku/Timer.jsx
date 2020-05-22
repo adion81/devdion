@@ -12,6 +12,9 @@ class Timer extends Component {
     componentDidMount() {
         this.intervalID =  setInterval(() => this.tick (), 100);
     }
+    componentDidUpdate(){
+        this.intervalID =  setInterval(() => this.tick (), 100);
+    }
 
     componentWillUnmount() {
         clearInterval(this.intervalID);
@@ -37,6 +40,14 @@ class Timer extends Component {
             this.setState({previousTime: Date.now() });
         }
     };
+    reset = () => {
+        this.props.resetGame();
+        this.setState( prevState => ({
+            isRunning: !prevState.isRunning,
+            previousTime: 0,
+            elapsedTime: 0
+        }));
+    }
 
 
     
@@ -51,7 +62,7 @@ class Timer extends Component {
                     <button onClick={ this.handleStopwatch } className={this.state.isRunning ? 'running ':''}>
                     {this.state.isRunning ? 'STOP' : 'START'}
                     </button>
-                    <button onClick={ this.props.resetGame }>
+                    <button onClick={ this.reset }>
                     RESET  
                     </button>
                 </div>
